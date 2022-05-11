@@ -1,0 +1,9 @@
+name: astra_multigpu
+dependencies:
+  - numpy
+  # - scipy
+  # - matplotlib >= 3.4
+  # - conda-forge::tomopy = 1.11.0
+  - astra-toolbox::astra-toolbox
+  - conda-forge::ipympl = 0.8.6
+  - pip
